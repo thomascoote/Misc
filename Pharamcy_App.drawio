@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.11">
   <diagram name="Page-1" id="WErCgWbNOn2o73B138BZ">
-    <mxGraphModel dx="1975" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,37 +24,37 @@
             <mxRectangle x="414" y="440" width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-12" value="Customer orientated environment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-12" value="Customer orientated environment" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="30" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-13" value="Good interpersonal skills" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-13" value="Good interpersonal skills" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="60" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-14" value="Good ability to organise and prioritise work" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-14" value="Good ability to organise and prioritise work" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="90" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-16" value="Able to use own initiative" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-16" value="Able to use own initiative" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="120" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-17" value="Analytical ability for problem solving" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-17" value="Analytical ability for problem solving" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="150" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-18" value="Able to work on own as well as part of a team" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-18" value="Able to work on own as well as part of a team" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="180" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-19" value="Good personal organisation and time management skills" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-19" value="Good personal organisation and time management skills" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="210" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-20" value="Ability to deal with non-routine activities" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-20" value="Ability to deal with non-routine activities" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="240" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-21" value="Good attention to detail" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-21" value="Good attention to detail" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="270" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-22" value="Demonstrates awareness of and commitment to quality customer care" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-22" value="Demonstrates awareness of and commitment to quality customer care" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="300" width="406" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BePfxDTcmuDDdTPrliQB-23" value="Good verbal and written communication skills" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
+        <mxCell id="BePfxDTcmuDDdTPrliQB-23" value="Good verbal and written communication skills" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
           <mxGeometry y="330" width="406" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BePfxDTcmuDDdTPrliQB-24" value="Demonstrate the ability to meet trust Values" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BePfxDTcmuDDdTPrliQB-11" vertex="1">
